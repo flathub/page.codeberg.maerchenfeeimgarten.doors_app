@@ -1,7 +1,7 @@
 id: page.codeberg.maerchenfeeimgarten.doors_app
 
 runtime: org.gnome.Platform
-runtime-version: '49'
+runtime-version: '50'
 sdk: org.gnome.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.rust-stable
@@ -22,8 +22,8 @@ modules:
 
     sources:
       - type: archive
-        url: https://codeberg.org/MaerchenfeeimGarten/doors_app/archive/v0.1.5.tar.gz
-        sha256: d0943fb7bcaed152a9c911782f0ffb28b6867e9d2ae136f25efdf2937b61ddef
+        url: https://codeberg.org/MaerchenfeeimGarten/doors_app/archive/v0.1.6.tar.gz
+        sha256: 4a4e4891462a85a118f52fa5ad1e79c89fe976dbd4d61d2f6b1661a740542a84
       - type: archive
         url: https://codeberg.org/MaerchenfeeimGarten/cargo_vendored_version_of_tauri-cli/archive/v0.0.2.tar.gz
         sha256: 67ca2ce2b046f53a14a7748fbf0b44220cdba784cb9d580c1f96aada475e7a35
