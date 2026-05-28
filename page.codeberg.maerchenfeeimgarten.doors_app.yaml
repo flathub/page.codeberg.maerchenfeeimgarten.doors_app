@@ -22,11 +22,11 @@ modules:
 
     sources:
       - type: archive
-        url: https://codeberg.org/MaerchenfeeimGarten/doors_app/archive/v0.1.6.tar.gz
+        url: https://codeberg.org/MaerchenfeeimGarten/doors_app/archive/v0.1.7.tar.gz
         sha256: 4a4e4891462a85a118f52fa5ad1e79c89fe976dbd4d61d2f6b1661a740542a84
       - type: archive
         url: https://codeberg.org/MaerchenfeeimGarten/cargo_vendored_version_of_tauri-cli/archive/v0.0.2.tar.gz
-        sha256: 67ca2ce2b046f53a14a7748fbf0b44220cdba784cb9d580c1f96aada475e7a35
+        sha256: 9daf6226f4d3afe165e973a43acd6a7075f35e6ee24dd4d5c76ac70096660581
         
     build-commands:
     
